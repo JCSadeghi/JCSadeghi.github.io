@@ -2,9 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am an [Associate Fellow](https://www.heacademy.ac.uk/individuals/fellowship/associate-fellow) of the Higher Education Academy.
 
-Organize your courses by years, topics, or universities, however you like!
+1. 2016-2018 School of Engineering, University of Liverpool, Assistant Tutor (Engineering)
+2. 2017-2018 Faculty of Science and Engineering, University of Manchester, Assistant Tutor (Physics)

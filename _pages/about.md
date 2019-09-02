@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Jonathan</strong> Sadeghi
-description: Research Engineer
+description: 
 
 profile:
   align: right

@@ -3,10 +3,16 @@ layout: page
 permalink: /publications/
 title: publications and conference talks
 description: Selected Papers and Talks
+yearst: [2020]
 yearsj: [2019,2018,2016]
 yearsr: [2019]
 yearsc: [2018,2017]
 ---
+### Thesis:
+{% for y in page.yearst %}
+  <h3 class="year">{{y}}</h3>
+  {% bibliography -f thesis -q @*[year={{y}}]* %}
+{% endfor %}
 ### Journal Papers:
 {% for y in page.yearsj %}
   <h3 class="year">{{y}}</h3>

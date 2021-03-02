@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications and conference talks
 description: Selected Papers and Talks
 yearst: [2020]
-yearsj: [2019,2018,2016]
+yearsj: [2019,2016]
 yearsr: [2019]
 yearsc: [2018,2017]
 ---

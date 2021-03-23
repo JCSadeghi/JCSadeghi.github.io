@@ -9,7 +9,8 @@ I serve as a reviewer for the ASCE-ASME Journal of Risk and Uncertainty in Engin
 
 I have also acted as a reviewer for the following conferences:
 
-1. [ISIPTA 2019, Ghent, Belgium](http://www.isipta2019.ugent.be/) (Programme committee)
-2. [REC 2018, Liverpool, UK](https://rec2018.uk/)
+1. [ISIPTA 2021, Granada, Spain](http://www.sipta.org/isipta21/) (Programme committee)
+2. [ISIPTA 2019, Ghent, Belgium](http://www.isipta2019.ugent.be/) (Programme committee)
+3. [REC 2018, Liverpool, UK](https://rec2018.uk/)
 
 In addition I served on the organising committee for the REC 2018 conference in Liverpool, UK.

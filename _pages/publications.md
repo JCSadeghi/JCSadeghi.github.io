@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications and conference talks
 description: Selected Papers and Talks
 yearst: [2020]
-yearsj: [2019,2016]
+yearsj: [2021,2019,2016]
 yearsr: [2019]
 yearsc: [2018,2017]
 ---
@@ -13,7 +13,7 @@ yearsc: [2018,2017]
   <h3 class="year">{{y}}</h3>
   {% bibliography -f thesis -q @*[year={{y}}]* %}
 {% endfor %}
-### Journal Papers:
+### Papers:
 {% for y in page.yearsj %}
   <h3 class="year">{{y}}</h3>
   {% bibliography -f papers -q @*[year={{y}}]* %}

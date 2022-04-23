@@ -12,7 +12,7 @@ news: false
 social: true
 ---
 
-I am currently a Research Engineer at FiveAI.
+I am currently a Senior Research Engineer at FiveAI.
 Previously I was a PhD Student at the University of Liverpool, supervised by [Marco de Angelis](https://marcodeangelis.github.io) and [Edoardo Patelli](https://www.liverpool.ac.uk/engineering/staff/edoardo-patelli/).
 Before that, I gained an MPhys in Theoretical Physics at the [University of Manchester](https://www.manchester.ac.uk/).
 

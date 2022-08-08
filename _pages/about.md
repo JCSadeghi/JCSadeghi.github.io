@@ -17,12 +17,10 @@ Previously I was a PhD Student at the University of Liverpool, supervised by [Ma
 Before that, I gained an MPhys in Theoretical Physics at the [University of Manchester](https://www.manchester.ac.uk/).
 
 ### Research interests
-- Machine Learning, particularly for approximation of computer codes
-- Uncertainty Quantification
-- Interval Mathematics
-- Imprecise Probability
-- Robust Bayesian Inference
-- Reliability Theory
+- Machine Learning
+- Computer Vision
+- Surrogate Models
+- Uncertainty Quantification for the above
 
 During my time at the Institute for Risk and Uncertainty I contributed to the development of the open source generalised uncertainty quantification software, [OpenCossan](http://www.cossan.co.uk).
 

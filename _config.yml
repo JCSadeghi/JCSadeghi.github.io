@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Jonathan Sadeghi
-email: J.C.Sadeghi@liverpool.ac.uk
+email: jon.sadeghi@five.ai
 description: > # this means to ignore newlines until "url:"
   Jonathan Sadeghi
 footer_text: >
@@ -24,7 +24,7 @@ scholar_userid: f2tfiLMAAAAJ
 orcid_id: 0000-0003-4106-2374
 researchgate_username: Jonathan_Sadeghi
 contact_note: >
-  If you wish to contact me please send me an email. Also, feel free to connect with me using the links above
+  For research matters please use the email link. Alternatively, feel free to connect with me using the links above
 
 # -----------------------------------------------------------------------------
 # Blog

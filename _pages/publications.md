@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: /publications/
-title: publications and conference talks
-description: Selected Papers and Talks
+title: publications
+description: Selected Papers. 
 yearst: [2020]
 yearsj: [2022,2021,2019,2016]
 yearsr: [2019]
 yearsc: [2018,2017]
 ---
+For patents please see my [Google scholar profile](https://scholar.google.com/citations?user=f2tfiLMAAAAJ)
 ### Papers:
 {% for y in page.yearsj %}
   <h3 class="year">{{y}}</h3>

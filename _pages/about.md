@@ -22,6 +22,6 @@ Before that, I gained an MPhys in Theoretical Physics at the [University of Manc
 - Surrogate Models
 - Uncertainty Quantification for the above
 
-During my time at the Institute for Risk and Uncertainty I contributed to the development of the open source generalised uncertainty quantification software, [OpenCossan](http://www.cossan.co.uk).
+During my time at the Institute for Risk and Uncertainty I contributed to the development of the open source generalised uncertainty quantification software, [OpenCossan](https://github.com/cossan-working-group/OpenCossan).
 
 You can read an ebook based on my PhD thesis [here](https://uncertainty-for-engineers.github.io/uncertainty-modelling-for-engineers).

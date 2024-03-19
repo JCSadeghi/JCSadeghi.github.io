@@ -19,8 +19,9 @@ Before that, I gained an MPhys in Theoretical Physics at the [University of Manc
 ### Research interests
 - Machine Learning
 - Computer Vision
+- Autonomous Vehicles
 - Surrogate Models
-- Uncertainty Quantification for the above
+- Uncertainty Quantification
 
 During my time at the Institute for Risk and Uncertainty I contributed to the development of the open source generalised uncertainty quantification software, [OpenCossan](https://github.com/cossan-working-group/OpenCossan).
 

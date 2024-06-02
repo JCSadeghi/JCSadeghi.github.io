@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Jonathan Sadeghi
-email: jon.sadeghi@five.ai
+#email: jon.sadeghi@five.ai
 description: > # this means to ignore newlines until "url:"
   Jonathan Sadeghi
 footer_text: >

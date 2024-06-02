@@ -12,9 +12,10 @@ news: false
 social: true
 ---
 
-I am currently a Senior Research Engineer at Bosch (formerly [FiveAI](https://www.five.ai/)).
-Previously I was a PhD Student at the University of Liverpool, supervised by [Marco de Angelis](https://marcodeangelis.github.io) and [Edoardo Patelli](https://www.strath.ac.uk/staff/patelliedoardoprofessor/).
-Before that, I gained an MPhys in Theoretical Physics at the [University of Manchester](https://www.manchester.ac.uk/).
+I am currently working at a startup, building something new at the intersection of AI and computer graphics.
+Previously, I was a Senior Research Engineer at Bosch (formerly [FiveAI](https://www.five.ai/)).
+Before that, I was a PhD Student at the University of Liverpool, supervised by [Marco de Angelis](https://marcodeangelis.github.io) and [Edoardo Patelli](https://www.strath.ac.uk/staff/patelliedoardoprofessor/).
+As an undergraduate I read Theoretical Physics at the [University of Manchester](https://www.manchester.ac.uk/).
 
 ### Research interests
 - Machine Learning

@@ -12,7 +12,7 @@ news: false
 social: true
 ---
 
-I am currently working at [Odyssey](https://www.odyssey,systems), building Hollywood-grade visual AI.
+I am currently working at [Odyssey](https://odyssey.systems), building Hollywood-grade visual AI.
 Previously, I was a Senior Research Engineer at Bosch (formerly [FiveAI](https://www.five.ai/)).
 Before that, I was a PhD Student at the University of Liverpool, supervised by [Marco de Angelis](https://marcodeangelis.github.io) and [Edoardo Patelli](https://www.strath.ac.uk/staff/patelliedoardoprofessor/).
 As an undergraduate I read Theoretical Physics at the [University of Manchester](https://www.manchester.ac.uk/).

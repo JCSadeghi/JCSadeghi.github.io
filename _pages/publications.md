@@ -5,7 +5,7 @@ title: publications
 description: Selected Papers. 
 yearst: [2020]
 yearsj: [2024, 2023, 2022,2021,2019,2016]
-yearsr: [2019]
+yearsr: [2026, 2019]
 yearsc: [2018,2017]
 ---
 For patents please see my [Google scholar profile](https://scholar.google.com/citations?user=f2tfiLMAAAAJ)

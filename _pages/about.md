@@ -22,7 +22,3 @@ As an undergraduate I read Theoretical Physics at the [University of Manchester]
 - Interactive Video Generation and World Models
 - Computer Vision
 - Autonomous Vehicles
-
-During my time at the Institute for Risk and Uncertainty I contributed to the development of the open source generalised uncertainty quantification software, [OpenCossan](https://github.com/cossan-working-group/OpenCossan).
-
-You can read an ebook based on my PhD thesis [here](https://uncertainty-for-engineers.github.io/uncertainty-modelling-for-engineers).

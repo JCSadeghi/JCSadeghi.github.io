@@ -1,0 +1,22 @@
+<section class="featured-work" aria-labelledby="featured-work-heading">
+  <h2 id="featured-work-heading">Featured work</h2>
+  <div class="featured-work-grid">
+    {% for item in site.data.featured_work %}
+      <article class="featured-work-card">
+        <a class="featured-work-image" href="{{ item.url | relative_url }}" aria-label="{{ item.title }}">
+          <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt }}" loading="lazy">
+        </a>
+        <div class="featured-work-content">
+          <p class="featured-work-meta">{{ item.type }} · {{ item.year }}</p>
+          <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
+          <p>{{ item.summary }}</p>
+          <div class="featured-work-links" aria-label="Resources for {{ item.title }}">
+            {% for link in item.links %}
+              <a class="btn btn-sm z-depth-0" href="{{ link.url | relative_url }}">{{ link.label }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>

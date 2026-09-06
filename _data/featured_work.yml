@@ -1,0 +1,51 @@
+- title: Odyssey-2 Max
+  type: World model release
+  year: 2026
+  image: /assets/img/featured/odyssey-2-max.webp
+  image_alt: A real-time Odyssey-2 Max simulation featuring a yellow mug
+  url: https://odyssey.ml/introducing-odyssey-2-max
+  summary: Odyssey's largest general-purpose world model to date, scaling real-time interactive video generation for more accurate physics and longer, more stable simulations.
+  links:
+    - label: Website
+      url: https://odyssey.ml/introducing-odyssey-2-max
+
+- title: "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?"
+  type: World model evaluation
+  year: 2026
+  image: /assets/img/featured/calibench.webp
+  image_alt: Diagram of the CaliBench physical-calibration evaluation protocol
+  url: https://arxiv.org/abs/2608.16829
+  summary: A benchmark that tests whether video world models reproduce known physical outcome distributions, separating calibration from the ability to generate scoreable videos.
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2608.16829
+    - label: Code
+      url: https://github.com/odysseyml/calibench
+    - label: Website
+      url: https://odyssey.ml/introducing-calibench
+
+- title: A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation
+  type: Perception error models
+  year: 2021
+  image: /assets/img/featured/perception-evaluation.webp
+  image_alt: Diagram showing surrogate-based evaluation of a simulated perception pipeline
+  url: https://arxiv.org/abs/2110.02739
+  summary: A surrogate-based method that makes large-scale testing of complex perception pipelines practical without repeatedly running their most expensive components.
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2110.02739
+    - label: Video
+      url: https://slideslive.com/38971217/a-step-towards-efficient-evaluation-of-complex-perception-tasks-in-simulation?ref=speaker-93408
+
+- title: Efficient Training of Interval Neural Networks for Imprecise Training Data
+  type: Uncertainty-aware neural networks
+  year: 2019
+  image: /assets/img/featured/interval-neural-network.webp
+  image_alt: Interval neural network fitted around uncertain training and test data
+  url: /assets/pdf/neunet.pdf
+  summary: A computationally feasible way to train neural networks with interval predictions, including imprecise training data and statistical reliability guarantees.
+  links:
+    - label: Paper
+      url: /assets/pdf/neunet.pdf
+    - label: Code
+      url: https://github.com/JCSadeghi/Efficient-Training-of-Interval-Neural-Networks-for-Imprecise-Training-Data

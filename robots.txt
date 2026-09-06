@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jcsadeghi.github.io/sitemap.xml

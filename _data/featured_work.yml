@@ -2,7 +2,7 @@
   type: World model release
   year: 2026
   image: /assets/img/featured/odyssey-3.webp
-  image_alt: A researcher at a desk while a monitor shows an Odyssey-3 simulation of two robot arms handling a cardboard box
+  image_alt: A grid of Odyssey-3 real-time simulations, including underwater scenes, animals, cycling, driving and paragliding, each with on-screen keyboard controls
   url: https://odyssey.systems/meet-odyssey-3
   summary: Odyssey's most powerful foundation world model yet, an autoregressive diffusion transformer that generates interactive environments in real time and sets a new state of the art on Physics-IQ Verified.
   links:

@@ -9,17 +9,6 @@
     - label: Website
       url: https://odyssey.systems/meet-odyssey-3
 
-- title: Odyssey-2 Max
-  type: World model release
-  year: 2026
-  image: /assets/img/featured/odyssey-2-max.webp
-  image_alt: A real-time Odyssey-2 Max simulation featuring a yellow mug
-  url: https://odyssey.ml/introducing-odyssey-2-max
-  summary: Odyssey's largest general-purpose world model to date, scaling real-time interactive video generation for more accurate physics and longer, more stable simulations.
-  links:
-    - label: Website
-      url: https://odyssey.ml/introducing-odyssey-2-max
-
 - title: "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?"
   type: World model evaluation
   year: 2026

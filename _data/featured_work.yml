@@ -40,8 +40,8 @@
 - title: Efficient Training of Interval Neural Networks for Imprecise Training Data
   type: Uncertainty-aware neural networks
   year: 2019
-  image: /assets/img/featured/interval-neural-network.webp
-  image_alt: Interval neural network fitted around uncertain training and test data
+  image: /assets/img/featured/interval-neural-network-dark-fine.webp
+  image_alt: Conceptual illustration of lavender prediction bounds enclosing coral training intervals on a dark background
   url: /assets/pdf/neunet.pdf
   summary: A computationally feasible way to train neural networks with interval predictions, including imprecise training data and statistical reliability guarantees.
   links:

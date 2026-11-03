@@ -57,3 +57,43 @@
 "mueller":
   - firstname: ["Romain", "R."]
     url: https://scholar.google.co.uk/citations?user=6K_Z_9sAAAAJ&hl=en
+
+"oksuz":
+  - firstname: ["Kemal", "K."]
+    url: https://kemaloksuz.github.io/
+
+"öksüz":
+  - firstname: ["Kemal", "K."]
+    url: https://kemaloksuz.github.io/
+
+"graham":
+  - firstname: ["Benjamin", "Ben", "B."]
+    url: https://scholar.google.com/citations?user=jQkkhlkAAAAJ&hl=en
+
+"bogunovic":
+  - firstname: ["Ilia", "Ilija", "I."]
+    url: https://scholar.google.com/citations?user=xMvt3NEAAAAJ&hl=en
+
+"hawke":
+  - firstname: ["Jeffrey", "Jeff", "J."]
+    url: https://scholar.google.com/citations?user=6OcQSLcAAAAJ&hl=en
+
+"seidenschwarz":
+  - firstname: ["Jenny", "J."]
+    url: https://jennyseidenschwarz.github.io/
+
+"kuzucu":
+  - firstname: ["Selim", "S."]
+    url: https://selimkuzucu.github.io/
+
+"güzel":
+  - firstname: ["Ahmet H.", "Ahmet Hamdi", "Ahmet", "A. H."]
+    url: https://aguzel.github.io/
+
+"guzel":
+  - firstname: ["Ahmet H.", "Ahmet Hamdi", "Ahmet", "A. H."]
+    url: https://aguzel.github.io/
+
+"allardice":
+  - firstname: ["Jesse", "J."]
+    url: https://scholar.google.com/citations?user=k97jb6gAAAAJ&hl=en

@@ -11,4 +11,4 @@ I am an [Associate Fellow](https://www.advance-he.ac.uk/fellowship/associate-fel
 
 1. 2016-2018 School of Engineering, University of Liverpool, Assistant Tutor (Engineering)
 2. 2017-2018 Faculty of Science and Engineering, University of Manchester, Assistant Tutor (Physics)
-3. 2019 Risk Institute Spring School, University of Liverpool, [Reliability analysis with surrogate models](https://riskinstitute.uk/events/reliabilitycourse/).
+3. 2019 Risk Institute Spring School, University of Liverpool, [Reliability analysis with surrogate models](https://web.archive.org/web/20221206135359/https://riskinstitute.uk/events/reliabilitycourse/).

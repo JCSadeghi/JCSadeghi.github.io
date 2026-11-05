@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: about
-description: Jonathan Sadeghi is a research scientist at Odyssey developing learning algorithms for generative world models and methods for evaluating and improving complex systems.
+description: Jonathan Sadeghi is a research scientist at Odyssey developing learning algorithms for generative world models and methods for evaluating and improving complex AI systems.
 
 profile:
   align: right
@@ -27,6 +27,6 @@ As an undergraduate I read Theoretical Physics at the [University of Manchester]
 
 ### Research focus
 
-My work spans learning algorithms for generative world models and methods for evaluating and improving complex systems. This includes work on perception and generative models, sometimes in embodied settings such as autonomous vehicles. I am particularly interested in reliability, efficient testing, and calibration under uncertainty.
+My work spans learning algorithms for generative world models and methods for evaluating and improving complex AI systems. This includes work on perception and generative models, sometimes in embodied settings such as autonomous vehicles. I am particularly interested in reliability, efficient testing, and calibration under uncertainty.
 
 {% include featured_work.liquid %}

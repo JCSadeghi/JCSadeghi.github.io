@@ -9,7 +9,7 @@ last_name: Sadeghi
 contact_note: >
   For research matters please use the email link. Alternatively, feel free to connect with me using the links above
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jonathan Sadeghi is a research scientist at Odyssey developing learning algorithms for generative world models and methods for evaluating and improving complex systems.
+  Jonathan Sadeghi is a research scientist at Odyssey developing learning algorithms for generative world models and methods for evaluating and improving complex AI systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

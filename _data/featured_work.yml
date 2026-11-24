@@ -23,6 +23,8 @@
       url: https://github.com/odysseyml/calibench
     - label: Website
       url: https://odyssey.ml/introducing-calibench
+    - label: Video
+      url: https://youtu.be/MkJQO0d8Rgg
 
 - title: A Step Towards Efficient Evaluation of Complex Perception Tasks in Simulation
   type: Perception error models

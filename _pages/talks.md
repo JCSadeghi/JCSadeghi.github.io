@@ -16,4 +16,4 @@ nav_order: 1
 
 ## Contributed talks
 
-1. **18 November 2026** — [BMVA Symposium on World Models, London, UK](https://www.bmva.org/meetings/26-11-18-WorldModels.html). “Are the Stochastic Dynamics of Video World Models Physically Calibrated?” Lightning talk.
+1. **18 November 2026** — [BMVA Symposium on World Models, London, UK](https://www.bmva.org/meetings/26-11-18-WorldModels.html). “Are the Stochastic Dynamics of Video World Models Physically Calibrated?” Lightning talk. ([video](https://youtu.be/MkJQO0d8Rgg))
